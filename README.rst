@@ -12,9 +12,8 @@ Usage
 The server can be started by either using ``socket.io-humble-broker`` or
 ``python -m socketio socketio_humble_broker``.
 
-See below the output of ``socket.io-humble-broker --help``:
+See below the output of ``socket.io-humble-broker --help``::
 
-::
     usage: socket.io-humble-broker [-h] [--host HOST] [--port PORT]
 
     Start the socket.io-humber-broker server.
