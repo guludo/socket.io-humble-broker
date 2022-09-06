@@ -20,8 +20,8 @@ setup(
         'Topic :: Software Development',
     ],
     install_requires=[
-        'python-socketio~=4.5',
-        'eventlet!=0.25',
+        'python-socketio~=4.5.0',
+        'eventlet>=0.31.0',
     ],
     python_requires='~=3.5',
     py_modules=['socketio_humble_broker'],
